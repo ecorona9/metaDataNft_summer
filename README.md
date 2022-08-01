@@ -1,4 +1,4 @@
-# metaDataNft_summer
+# nftmeta-react
 Create a web application using react that allows blockchain users to learn more about their nft and the data that lives on the blockchain.
 
 ## Available Scripts
