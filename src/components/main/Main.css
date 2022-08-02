@@ -1,0 +1,24 @@
+.Main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 90vh;
+}
+
+.Content {
+  display: flex;
+  flex-direction: column;
+}
+
+.Search {
+  width: 50vw;
+  height: 5vh;
+  font-size: larger;
+}
+
+.Options {
+  width: fit-content;
+  height: 6vh;
+  font-size: larger;
+}
